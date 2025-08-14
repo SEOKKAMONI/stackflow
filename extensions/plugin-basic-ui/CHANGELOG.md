@@ -1,5 +1,11 @@
 # @stackflow/plugin-basic-ui
 
+## 1.15.0
+
+### Minor Changes
+
+- 658c770: Allow components style to be customized directly
+
 ## 1.14.2
 
 ### Patch Changes
